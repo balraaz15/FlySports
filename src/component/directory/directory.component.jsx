@@ -22,7 +22,7 @@ const Directory = () => {
       id: 3,
       title: "Accesories",
       imageUrl:
-        "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+        "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
     },
     {
       id: 4,
