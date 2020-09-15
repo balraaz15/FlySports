@@ -30,7 +30,7 @@ const SignIn = () => {
       <form onSubmit={() => handleSubmit()}>
         <FormInput
           name="email"
-          type="text"
+          type="email"
           value={email}
           required
           handleChange={(e) => handleChange(e)}
