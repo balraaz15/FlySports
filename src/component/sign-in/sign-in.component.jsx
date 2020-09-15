@@ -4,7 +4,7 @@ import "./sign-in.styles.scss";
 
 import FormInput from "../forms/form-input/form-input.component";
 import CustomButton from "../custom-button/custom-button.component";
-import { signInWithGoogle } from "../../firebase/firebase-utils";
+import { auth, signInWithGoogle } from "../../firebase/firebase-utils";
 
 const SignIn = () => {
   const [email, setEmail] = useState("");
@@ -16,10 +16,16 @@ const SignIn = () => {
     name === "email" ? setEmail(value) : setPassword(value);
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    setEmail("");
-    setPassword("");
+
+    try {
+      await auth.signInWithEmailAndPassword(email, password);
+      setEmail("");
+      setPassword("");
+    } catch (error) {
+      alert(error);
+    }
   };
 
   return (
@@ -27,7 +33,7 @@ const SignIn = () => {
       <h2>I am already a member.</h2>
       <span>Sign in with your email and password.</span>
 
-      <form onSubmit={() => handleSubmit()}>
+      <form onSubmit={(e) => handleSubmit(e)}>
         <FormInput
           name="email"
           type="email"
@@ -46,7 +52,7 @@ const SignIn = () => {
         />
         <div className="buttons">
           <CustomButton type="submit">Sign In</CustomButton>
-          <CustomButton onClick={signInWithGoogle} isGoogleSignIn>
+          <CustomButton type="button" onClick={signInWithGoogle} isGoogleSignIn>
             Signin with Google
           </CustomButton>
         </div>
