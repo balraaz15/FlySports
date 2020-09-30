@@ -152,140 +152,140 @@ const SHOP_DATA = [
     routeName: "boots",
     items: [
       {
-        id: 1,
+        id: 21,
         product_name: "in",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$37.37",
       },
       {
-        id: 2,
+        id: 22,
         product_name: "integer ac leo",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$89.06",
       },
       {
-        id: 3,
+        id: 23,
         product_name: "phasellus in",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$31.85",
       },
       {
-        id: 4,
+        id: 24,
         product_name: "hac habitasse platea",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$14.39",
       },
       {
-        id: 5,
+        id: 25,
         product_name: "enim in tempor",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$88.02",
       },
       {
-        id: 6,
+        id: 26,
         product_name: "platea dictumst etiam",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$54.71",
       },
       {
-        id: 7,
+        id: 27,
         product_name: "nisi",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$87.27",
       },
       {
-        id: 8,
+        id: 28,
         product_name: "pede justo lacinia",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$52.21",
       },
       {
-        id: 9,
+        id: 29,
         product_name: "maecenas tincidunt",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$33.76",
       },
       {
-        id: 10,
+        id: 30,
         product_name: "non",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$56.07",
       },
       {
-        id: 11,
+        id: 31,
         product_name: "orci pede venenatis",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$17.48",
       },
       {
-        id: 12,
+        id: 32,
         product_name: "odio",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$97.56",
       },
       {
-        id: 13,
+        id: 33,
         product_name: "eget orci",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$34.49",
       },
       {
-        id: 14,
+        id: 34,
         product_name: "hendrerit at vulputate",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$25.82",
       },
       {
-        id: 15,
+        id: 35,
         product_name: "nulla suscipit ligula",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$95.36",
       },
       {
-        id: 16,
+        id: 36,
         product_name: "suspendisse potenti in",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$17.88",
       },
       {
-        id: 17,
+        id: 37,
         product_name: "lectus pellentesque",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$9.69",
       },
       {
-        id: 18,
+        id: 38,
         product_name: "purus eu magna",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$83.06",
       },
       {
-        id: 19,
+        id: 39,
         product_name: "pharetra",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",
         price: "$20.03",
       },
       {
-        id: 20,
+        id: 40,
         product_name: "aliquam convallis",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-cleats_AO8SMKGOI4.jpg",

@@ -6,14 +6,13 @@ import { toggleCartHidden } from "../../redux/cart/cart-actions";
 import "./cart-dropdown.styles.scss";
 
 import CustomButton from "../custom-button/custom-button.component";
+import CartItem from "../cart-item/cart-item.component";
 
 const CartDropdown = ({ toggleCartHidden, cartItems }) => (
   <div className="cart-dropdown" onMouseLeave={toggleCartHidden}>
     <div className="cart-items">
       {cartItems.map((item) => (
-        <p key={item.id}>
-          {item.product_name} {item.price}
-        </p>
+        <CartItem key={item.id} item={item} />
       ))}
     </div>
     <CustomButton>My Cart</CustomButton>
@@ -21,8 +20,8 @@ const CartDropdown = ({ toggleCartHidden, cartItems }) => (
   </div>
 );
 
-const mapStateToProps = ({ cart }) => ({
-  cartItems: cart.cartItems,
+const mapStateToProps = ({ cart: { cartItems } }) => ({
+  cartItems: cartItems,
 });
 
 const mapDispatchToProps = (dispatch) => ({
