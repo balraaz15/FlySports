@@ -2,6 +2,7 @@ import React from "react";
 import { connect } from "react-redux";
 import { withRouter } from "react-router-dom";
 import { createStructuredSelector } from "reselect";
+import { AiOutlineFrown } from "react-icons/ai";
 
 import { toggleCartHidden } from "../../redux/cart/cart-actions";
 
@@ -17,11 +18,20 @@ const CartDropdown = ({ toggleCartHidden, cartItems, history }) => (
       {cartItems.length ? (
         cartItems.map((item) => <CartItem key={item.id} item={item} />)
       ) : (
-        <h5 className="empty-cart">Your Cart is Empty!</h5>
+        <div className="empty-cart">
+          <AiOutlineFrown
+            style={{ display: "block", margin: "0 auto", fontSize: "60px" }}
+          />
+          <p>Your Cart is Empty!</p>
+        </div>
       )}
     </div>
-    <CustomButton>My Cart</CustomButton>
-    <CustomButton onClick={() => history.push("/checkout")}>
+    <CustomButton
+      onClick={() => {
+        history.push("/checkout");
+        toggleCartHidden();
+      }}
+    >
       Checkout
     </CustomButton>
   </div>
