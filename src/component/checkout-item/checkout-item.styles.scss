@@ -16,6 +16,9 @@
       height: 100%;
     }
   }
+  .name {
+    text-transform: capitalize;
+  }
   .name,
   .quantity,
   .price {
@@ -23,7 +26,17 @@
   }
 
   .quantity {
-    padding-left: 20px;
+    display: flex;
+
+    .arrow {
+      cursor: pointer;
+      margin: 0 10px;
+    }
+
+    .unclickable {
+      color: grey;
+      cursor: no-drop;
+    }
   }
 
   .remove-button {

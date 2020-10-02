@@ -299,143 +299,143 @@ const SHOP_DATA = [
     routeName: "accessories",
     items: [
       {
-        id: 1,
+        id: 41,
         product_name: "dignissim",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$66.69",
       },
       {
-        id: 2,
+        id: 42,
         product_name: "cursus vestibulum",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$18.79",
       },
       {
-        id: 3,
+        id: 43,
         product_name: "in sapien",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$65.32",
       },
       {
-        id: 4,
+        id: 44,
         product_name: "ut mauris eget",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$50.89",
       },
       {
-        id: 5,
+        id: 45,
         product_name: "sapien ut",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$22.81",
       },
       {
-        id: 6,
+        id: 46,
         product_name: "dolor sit amet",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$78.13",
       },
       {
-        id: 7,
+        id: 47,
         product_name: "nulla elit",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$6.71",
       },
       {
-        id: 8,
+        id: 48,
         product_name: "ac leo",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$66.67",
       },
       {
-        id: 9,
+        id: 49,
         product_name: "amet sem",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$42.99",
       },
       {
-        id: 10,
+        id: 50,
         product_name: "varius",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$51.54",
       },
       {
-        id: 11,
+        id: 51,
         product_name: "nullam porttitor lacus",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$96.32",
       },
       {
-        id: 12,
+        id: 52,
         product_name: "ante ipsum",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$87.96",
       },
       {
-        id: 13,
+        id: 53,
         product_name: "tincidunt eu",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$77.91",
       },
       {
-        id: 14,
+        id: 54,
         product_name: "vestibulum",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$19.71",
       },
       {
-        id: 15,
+        id: 55,
         product_name: "nulla pede",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$21.04",
       },
       {
-        id: 16,
+        id: 56,
         product_name: "in sapien iaculis",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$53.15",
       },
       {
-        id: 17,
+        id: 57,
         product_name: "habitasse platea dictumst",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$89.45",
       },
       {
-        id: 18,
+        id: 58,
         product_name: "vehicula consequat",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$51.78",
       },
       {
-        id: 19,
+        id: 59,
         product_name: "ipsum",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$25.57",
       },
       {
-        id: 20,
+        id: 260,
         product_name: "duis bibendum morbi",
         imageUrl:
-          "https://www.theoneglove.com/images/slyr-pure-goalkeeper-gloves-p217-1587_image.jpg",
+          "https://nwscdn.com/media/wysiwyg/3kf/goalkeeper/Goalkeeper_Glove_For_Professional_Soccer_Teams.jpg",
         price: "$74.92",
       },
     ],
@@ -446,140 +446,140 @@ const SHOP_DATA = [
     routeName: "footballs",
     items: [
       {
-        id: 1,
+        id: 61,
         product_name: "convallis nunc proin",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$49.48",
       },
       {
-        id: 2,
+        id: 62,
         product_name: "nibh in",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$91.28",
       },
       {
-        id: 3,
+        id: 63,
         product_name: "vestibulum sit",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$2.12",
       },
       {
-        id: 4,
+        id: 64,
         product_name: "quam",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$99.35",
       },
       {
-        id: 5,
+        id: 65,
         product_name: "pede justo eu",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$51.92",
       },
       {
-        id: 6,
+        id: 66,
         product_name: "vestibulum rutrum",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$8.82",
       },
       {
-        id: 7,
+        id: 67,
         product_name: "massa quis",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$16.56",
       },
       {
-        id: 8,
+        id: 68,
         product_name: "urna",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$67.76",
       },
       {
-        id: 9,
+        id: 69,
         product_name: "odio elementum eu",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$31.61",
       },
       {
-        id: 10,
+        id: 70,
         product_name: "integer",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$60.92",
       },
       {
-        id: 11,
+        id: 71,
         product_name: "habitasse platea",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$73.46",
       },
       {
-        id: 12,
+        id: 72,
         product_name: "in",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$27.24",
       },
       {
-        id: 13,
+        id: 73,
         product_name: "ac est",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$26.21",
       },
       {
-        id: 14,
+        id: 74,
         product_name: "lobortis est",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$24.86",
       },
       {
-        id: 15,
+        id: 75,
         product_name: "donec",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$26.81",
       },
       {
-        id: 16,
+        id: 76,
         product_name: "diam",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$90.50",
       },
       {
-        id: 17,
+        id: 77,
         product_name: "vivamus vestibulum sagittis",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$21.59",
       },
       {
-        id: 18,
+        id: 78,
         product_name: "ultrices aliquet maecenas",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$21.27",
       },
       {
-        id: 19,
+        id: 79,
         product_name: "id sapien",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         price: "$43.20",
       },
       {
-        id: 20,
+        id: 80,
         product_name: "eu interdum",
         imageUrl:
           "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -593,140 +593,140 @@ const SHOP_DATA = [
     routeName: "others",
     items: [
       {
-        id: 1,
+        id: 81,
         product_name: "porta volutpat",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$43.20",
       },
       {
-        id: 2,
+        id: 82,
         product_name: "commodo",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$44.71",
       },
       {
-        id: 3,
+        id: 83,
         product_name: "congue eget",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$39.43",
       },
       {
-        id: 4,
+        id: 84,
         product_name: "augue vestibulum",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$13.45",
       },
       {
-        id: 5,
+        id: 85,
         product_name: "non",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$52.56",
       },
       {
-        id: 6,
+        id: 86,
         product_name: "donec posuere",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$28.00",
       },
       {
-        id: 7,
+        id: 87,
         product_name: "erat",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$99.14",
       },
       {
-        id: 8,
+        id: 88,
         product_name: "sapien iaculis congue",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$52.48",
       },
       {
-        id: 9,
+        id: 89,
         product_name: "ac est lacinia",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$54.07",
       },
       {
-        id: 10,
+        id: 90,
         product_name: "vel",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$7.53",
       },
       {
-        id: 11,
+        id: 91,
         product_name: "et",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$69.56",
       },
       {
-        id: 12,
+        id: 92,
         product_name: "aenean",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$78.51",
       },
       {
-        id: 13,
+        id: 93,
         product_name: "pretium nisl",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$22.52",
       },
       {
-        id: 14,
+        id: 94,
         product_name: "sit amet diam",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$54.74",
       },
       {
-        id: 15,
+        id: 95,
         product_name: "faucibus accumsan odio",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$53.45",
       },
       {
-        id: 16,
+        id: 96,
         product_name: "venenatis",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$98.33",
       },
       {
-        id: 17,
+        id: 97,
         product_name: "sit amet sem",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$91.02",
       },
       {
-        id: 18,
+        id: 98,
         product_name: "diam neque",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$43.72",
       },
       {
-        id: 19,
+        id: 99,
         product_name: "odio condimentum",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
         price: "$29.14",
       },
       {
-        id: 20,
+        id: 100,
         product_name: "posuere cubilia",
         imageUrl:
           "https://cdn.stocksnap.io/img-thumbs/960w/soccer-net_1IIEPDOFFI.jpg",
