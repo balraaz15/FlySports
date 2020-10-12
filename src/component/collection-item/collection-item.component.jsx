@@ -1,5 +1,6 @@
 import React from "react";
 import { connect } from "react-redux";
+import { FaCartPlus } from "react-icons/fa";
 
 import CustomButton from "../custom-button/custom-button.component";
 import { addItem } from "../../redux/cart/cart-actions";
@@ -16,6 +17,7 @@ const CollectionItem = ({ item, addItem }) => {
         <span className="price">{price}</span>
       </div>
       <CustomButton inverted onClick={() => addItem(item)}>
+        <FaCartPlus style={{ fontSize: "18px", margin: "0 8px -4px 0" }} />
         Add To Cart
       </CustomButton>
     </div>

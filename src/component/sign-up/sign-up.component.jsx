@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { FaUserPlus } from "react-icons/fa";
 
 import FormInput from "../forms/form-input/form-input.component";
 import CustomButton from "../custom-button/custom-button.component";
@@ -94,7 +95,10 @@ const SignUp = () => {
           handleChange={(e) => handleChange(e)}
         />
 
-        <CustomButton type="submit">REGISTER</CustomButton>
+        <CustomButton type="submit">
+          <FaUserPlus className="btn-icon" />
+          REGISTER
+        </CustomButton>
       </form>
     </div>
   );

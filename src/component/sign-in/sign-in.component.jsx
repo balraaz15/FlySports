@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { FaSignInAlt, FaGoogle } from "react-icons/fa";
 
 import "./sign-in.styles.scss";
 
@@ -51,9 +52,12 @@ const SignIn = () => {
           label="Password"
         />
         <div className="buttons">
-          <CustomButton type="submit">Sign In</CustomButton>
+          <CustomButton type="submit">
+            <FaSignInAlt className="btn-icon" /> Sign In
+          </CustomButton>
           <CustomButton type="button" onClick={signInWithGoogle} isGoogleSignIn>
-            Signin with Google
+            <FaGoogle className="btn-icon" />
+            Google signin
           </CustomButton>
         </div>
       </form>

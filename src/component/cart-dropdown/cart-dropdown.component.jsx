@@ -3,6 +3,7 @@ import { connect } from "react-redux";
 import { withRouter } from "react-router-dom";
 import { createStructuredSelector } from "reselect";
 import { AiOutlineFrown } from "react-icons/ai";
+import { FaLuggageCart } from "react-icons/fa";
 
 import { toggleCartHidden } from "../../redux/cart/cart-actions";
 
@@ -32,6 +33,7 @@ const CartDropdown = ({ toggleCartHidden, cartItems, history }) => (
         toggleCartHidden();
       }}
     >
+      <FaLuggageCart className="btn-icon" />
       Checkout
     </CustomButton>
   </div>
